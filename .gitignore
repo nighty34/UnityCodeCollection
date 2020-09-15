@@ -1,1 +1,8 @@
-
+*.meta
+meshes/
+TMP/
+templates/
+prefabs/
+materials/
+terrain/
+textures/
